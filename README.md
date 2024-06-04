@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel Ignacio Urushima</h1>
-<h3 align="center">Student of University Technical Degree in Programming</h3>
+<h3 align="center">Student of University Technical Degree in Programming | Full Stack Developer | DevOps | SysAdmin | Cloud Engineer | Infraestructure</h3>
 
 - 📫 How to reach me **giurushima@hotmail.com**
 
